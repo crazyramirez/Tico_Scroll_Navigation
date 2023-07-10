@@ -5,7 +5,8 @@
 <br>
 <br>
 
-BJS Demo using Scroll to navigate in an animation designed in 3DsMax and exported to GLB 
+BJS Demo using Scroll to navigate in an animation designed in 3DsMax and exported to GLB.
+<br>
 <br>
 Use mouse scroll or slide touch in mobile to move in the animation.
 <br>
@@ -25,7 +26,11 @@ Setup NPM and Install BJS</b>
 <b><span>&#10003;</span>
 Main Code</b>
 - Everything is in main.js and navigation.js in js folder.
-- Very simple, take a look and I hope you enjoy it
+- In main.js you must define the main variables
+- The position is linked with "scroll-sections"
+- The number of sections must correspond to the number of scrollSteps
+- In navigation.js there is a function checkPositionForDIVS(); which lets you know the current scrollPosition
+- Play, share it, take a look and I hope you enjoy it
 <br>
 
 <b><span>&#10003;</span>

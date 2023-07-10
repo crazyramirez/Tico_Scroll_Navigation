@@ -92,7 +92,9 @@ function removeSwipeScroll() {
 // Check Position for DIVS //
 function checkPositionForDIVS() {
 
-    // console.log("ScrollPosition " + scrollSections.scrollTop);
+    // Log ScrollPosition
+    console.log("ScrollPosition " + scrollSections.scrollTop);
+
     for (let index = 0; index < scrollSteps.length; index++) {
         var sect = document.getElementById("section-" + index);
 
