@@ -1,10 +1,6 @@
 # TICO Scroll Navigation
 <br>
-
-<div id="logos-container" style="display: flex; flex-direction: column; align-content: center; align-items: center; gap: 100px;">
 <a href="https://www.viseni.com" target="_blank"><img src="https://www.viseni.com/viseni_logo_2.png" style="width: 200px; margin-bottom: 50px; margin-right: 50px;"></a>
-<a href="https://www.babylonjs.com" target="_blank"><img src="https://www.viseni.com/babylonjs_logo.png" style="width: 50px; margin-left: 50px"></a>
-</div>
 <br>
 <br>
 
