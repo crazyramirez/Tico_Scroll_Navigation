@@ -5,7 +5,7 @@
 <br>
 <br>
 
-BJS Demo using Scroll to navigate in an animation designed in 3DsMax and exported to GLB.
+TICO is a BabylonJS Demo using Scroll to navigate in an animation designed in 3DsMax and exported to GLB.
 <br>
 <br>
 Use mouse scroll or slide touch in mobile to move in the animation.
