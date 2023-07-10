@@ -8,6 +8,9 @@
 TICO is a BabylonJS Demo using Scroll to navigate in an animation designed in 3DsMax and exported to GLB.
 <br>
 <br>
+Initially thought to make an interactive 3D Visual Portfolio, but as I am very busy I have left it for the near future.
+<br>
+<br>
 Use mouse scroll or slide touch in mobile to move in the animation.
 <br>
 Click on the objects to play custom animations.
